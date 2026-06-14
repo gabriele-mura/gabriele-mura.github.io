@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gamura.github.ioblank/sitemap.xml
+Sitemap: https://gamura.github.io/sitemap.xml
